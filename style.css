@@ -1,0 +1,22 @@
+:root {
+  --white: #6495ed;
+}
+.fill-warning {
+  background-color: yellow;
+}
+
+div.margin {
+  margin-top: 200px !important;
+}
+
+.card {
+  height: 100%;
+}
+
+.color {
+  background-color: lightblue;
+}
+
+div.bg-orange {
+  background-color: orange !important;
+}
