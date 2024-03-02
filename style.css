@@ -1,3 +1,4 @@
+
 :root {
   --white: #6495ed;
 }
@@ -19,4 +20,8 @@ div.margin {
 
 div.bg-orange {
   background-color: orange !important;
+}
+
+.Pad {
+  padding-left: 20% !important;
 }
